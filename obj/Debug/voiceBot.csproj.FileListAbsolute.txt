@@ -1,0 +1,10 @@
+C:\Users\Jamey\source\repos\voiceBot\bin\Debug\voiceBot.exe.config
+C:\Users\Jamey\source\repos\voiceBot\bin\Debug\voiceBot.exe
+C:\Users\Jamey\source\repos\voiceBot\bin\Debug\voiceBot.pdb
+C:\Users\Jamey\source\repos\voiceBot\obj\Debug\voiceBot.csprojAssemblyReference.cache
+C:\Users\Jamey\source\repos\voiceBot\obj\Debug\voiceBot.Form1.resources
+C:\Users\Jamey\source\repos\voiceBot\obj\Debug\voiceBot.Properties.Resources.resources
+C:\Users\Jamey\source\repos\voiceBot\obj\Debug\voiceBot.csproj.GenerateResource.cache
+C:\Users\Jamey\source\repos\voiceBot\obj\Debug\voiceBot.csproj.CoreCompileInputs.cache
+C:\Users\Jamey\source\repos\voiceBot\obj\Debug\voiceBot.exe
+C:\Users\Jamey\source\repos\voiceBot\obj\Debug\voiceBot.pdb
